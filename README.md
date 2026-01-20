@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Keshav Agrawal
 
-<!--
-**keshav-agrawal-dev/keshav-agrawal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean, responsive and user-friendly web interfaces.
+Skilled in HTML, CSS, JavaScript and React.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I'm Working On
+- Improving my frontend skills
+- Building real-world projects
+- Learning best coding practices
+
+### 📫 Contact
+- GitHub: https://github.com/keshav-agrawal-dev
